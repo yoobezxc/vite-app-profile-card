@@ -1,9 +1,9 @@
-import ProfileCard from "./components/ProfileCard";
+import BackGroundCard from "./components/BackGroundCard.jsx";
 
 function App() {
   return (
     <>
-      <ProfileCard />
+      <BackGroundCard />
     </>
   );
 }
